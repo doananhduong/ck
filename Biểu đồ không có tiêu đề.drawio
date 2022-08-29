@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T11:31:26.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Db8Yov20l4BXbvLmRt8v" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T11:33:55.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="btilfL6iZ5Haa2WigYsh" version="20.2.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3601" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="TTL2j_H4sii3UyfexswZ-1571" value="Ý thức cá nhân được hình thành bằng con đường tự nhận thức, tự đánh giá, tự phân tích hành vi của mình" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-220" y="1400" width="720" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LZ8TCxtlpHvND5LCqxfN-1518" value="" style="endArrow=none;html=1;rounded=0;entryX=0.339;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TTL2j_H4sii3UyfexswZ-1568" target="1356">
+        <mxCell id="LZ8TCxtlpHvND5LCqxfN-1518" value="" style="endArrow=none;html=1;rounded=0;entryX=0.339;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#FF3333;" edge="1" parent="1" source="TTL2j_H4sii3UyfexswZ-1568" target="1356">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="1070" as="sourcePoint" />
             <mxPoint x="630" y="1020" as="targetPoint" />
